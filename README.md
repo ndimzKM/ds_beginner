@@ -1,2 +1,1 @@
-## Start virtual environment
-# source ./venv/bin/activate
+# Getting Started in machine learning
