@@ -1,1 +1,1 @@
-# Getting Started in machine learning
+# Getting Started with machine learning
